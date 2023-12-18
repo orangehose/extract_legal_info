@@ -1,0 +1,4 @@
+uvicorn~=0.23.2
+fastapi~=0.104.0
+xmltodict3~=0.0.4
+dateparser~=1.2.0
